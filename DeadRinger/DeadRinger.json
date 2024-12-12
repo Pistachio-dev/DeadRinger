@@ -1,0 +1,12 @@
+{
+    "Author": "Pistachio Herald",
+    "Name": "Dead Ringer",
+    "Punchline": "Disables the target ring on player characters.",
+    "Description": "Disables the target ring on player characters.",
+    "ApplicableVersion": "any",
+    "Tags": [
+        "targetring",
+        "target",
+        "ring"
+    ]
+}
